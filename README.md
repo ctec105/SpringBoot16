@@ -1,4 +1,4 @@
-# SpringBoot15:  Relaciones entre tablas y entidades
+# SpringBoot16:  Relaciones entre tablas y entidades
 
 Mostrar datos de tablas ralacionadas:
 @OneToOne, @ManyToOne, @OneToMany
